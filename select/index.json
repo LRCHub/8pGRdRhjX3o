@@ -1,162 +1,168 @@
 {
   "version": 1,
-  "base_track": "妄想感傷代償連盟",
+  "base_track": "DECO*27 - 妄想税 feat. 初音ミク",
   "base_artist": "DECO*27",
-  "createdAt": "2026-03-18T18:29:56.502075Z",
+  "createdAt": "2026-03-20T05:22:04.829294Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟",
+      "title": "DECO*27 - Ghost Rule feat. Hatsune Miku",
       "artist": "DECO*27",
       "has_synced": true,
-      "path": "select/01_妄想感傷代償連盟_DECO_27.lrc"
+      "path": "select/01_DECO_27_-_Ghost_Rule_feat._Hatsune_Miku_DECO_27.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟 (feat. 宵崎奏&東雲絵名&初音ミク)",
-      "artist": "25時、ナイトコードで。",
-      "has_synced": true,
-      "path": "select/02_妄想感傷代償連盟_(feat._宵崎奏&東雲絵名&初音ミク)_25時、ナイトコードで。.lrc"
+      "title": "No You, No Me / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/02_No_You,_No_Me___DECO_27_Feat._初音ミク_DECO_27.txt"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟",
-      "artist": "25時、ナイトコードで。",
+      "title": "むかしむかしのきょうのぼく / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
       "has_synced": true,
-      "path": "select/03_妄想感傷代償連盟_25時、ナイトコードで。.lrc"
+      "path": "select/03_むかしむかしのきょうのぼく___DECO_27_Feat._初音ミク_DECO_27.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟",
-      "artist": "25時、ナイトコードで。 feat. 宵崎奏&東雲絵名&初音ミク",
-      "has_synced": true,
-      "path": "select/04_妄想感傷代償連盟_25時、ナイトコードで。_feat._宵崎奏&東雲絵名&初音ミク.lrc"
+      "title": "ゆめゆめ / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/04_ゆめゆめ___DECO_27_Feat._初音ミク_DECO_27.txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟",
-      "artist": "YuNi",
-      "has_synced": true,
-      "path": "select/05_妄想感傷代償連盟_YuNi.lrc"
+      "title": "愛言葉II / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/05_愛言葉II___DECO_27_Feat._初音ミク_DECO_27.txt"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟",
-      "artist": "Various Artists",
-      "has_synced": true,
-      "path": "select/06_妄想感傷代償連盟_Various_Artists.lrc"
+      "title": "愛言葉 / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/06_愛言葉___DECO_27_Feat._初音ミク_DECO_27.txt"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "DSCF - 妄想感傷代償連盟 (MKDR)",
+      "title": "DECO*27 - ゴーストルール feat. 初音ミク",
       "artist": "DECO*27",
-      "has_synced": true,
-      "path": "select/07_DSCF_-_妄想感傷代償連盟_(MKDR)_DECO_27.lrc"
+      "has_synced": false,
+      "path": "select/07_DECO_27_-_ゴーストルール_feat._初音ミク_DECO_27.txt"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟",
-      "artist": "YuNi",
-      "has_synced": true,
-      "path": "select/08_妄想感傷代償連盟_YuNi.lrc"
+      "title": "相愛性理論 / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/08_相愛性理論___DECO_27_Feat._初音ミク_DECO_27.txt"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟",
+      "title": "恋距離遠愛 / DECO*27 Feat. 初音ミク",
       "artist": "DECO*27",
       "has_synced": true,
-      "path": "select/09_妄想感傷代償連盟_DECO_27.lrc"
+      "path": "select/09_恋距離遠愛___DECO_27_Feat._初音ミク_DECO_27.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟",
-      "artist": "神田沙也加 (かんだ さやか)",
-      "has_synced": false,
-      "path": "select/10_妄想感傷代償連盟_神田沙也加_(かんだ_さやか).txt"
+      "title": "ペダルハート / DECO*27 Feat. GUMI",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/10_ペダルハート___DECO_27_Feat._GUMI_DECO_27.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟",
-      "artist": "DECO*27&初音ミク",
-      "has_synced": true,
-      "path": "select/11_妄想感傷代償連盟_DECO_27&初音ミク.lrc"
+      "title": "愛迷エレジー / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/11_愛迷エレジー___DECO_27_Feat._初音ミク_DECO_27.txt"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟",
-      "artist": "Sou",
-      "has_synced": true,
-      "path": "select/12_妄想感傷代償連盟_Sou.lrc"
+      "title": "二息歩行 / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/12_二息歩行___DECO_27_Feat._初音ミク_DECO_27.txt"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟",
-      "artist": "冬名",
+      "title": "キミ以上、ボク未満。 / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
       "has_synced": true,
-      "path": "select/13_妄想感傷代償連盟_冬名.lrc"
+      "path": "select/13_キミ以上、ボク未満。___DECO_27_Feat._初音ミク_DECO_27.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟",
-      "artist": "神田沙也加",
+      "title": "リノリウム / DECO*27 Feat. GUMI",
+      "artist": "DECO*27",
       "has_synced": false,
-      "path": "select/14_妄想感傷代償連盟_神田沙也加.txt"
+      "path": "select/14_リノリウム___DECO_27_Feat._GUMI_DECO_27.txt"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟 with いかさん",
-      "artist": "＋α／あるふぁきゅん。",
-      "has_synced": true,
-      "path": "select/15_妄想感傷代償連盟_with_いかさん_+α_あるふぁきゅん。.lrc"
+      "title": "Berry Blue (DECO*27 Vocal Mix)",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/15_Berry_Blue_(DECO_27_Vocal_Mix)_DECO_27.txt"
     },
     {
       "id": "lrclib_16",
       "source": "lrclib",
-      "title": "妄想感傷代償連盟",
-      "artist": "DECO∗27",
+      "title": "27 -DECO*27 Vocal Mix-",
+      "artist": "DECO*27",
       "has_synced": true,
-      "path": "select/16_妄想感傷代償連盟_DECO∗27.lrc"
+      "path": "select/16_27_-DECO_27_Vocal_Mix-_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ベリーブルー (DECO*27 Vocal Mix)",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/17_ベリーブルー_(DECO_27_Vocal_Mix)_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Berry Blue (DECO*27 Vocal Mix)",
+      "artist": "deco27",
+      "has_synced": false,
+      "path": "select/18_Berry_Blue_(DECO_27_Vocal_Mix)_deco27.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ベリーブルー (DECO*27 Vocal Mix)",
+      "artist": "deco27",
+      "has_synced": false,
+      "path": "select/19_ベリーブルー_(DECO_27_Vocal_Mix)_deco27.txt"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "妄想感傷代償連盟",
-      "artist": "DECO*27",
+      "title": "妄想税",
+      "artist": "初音ミク",
       "has_synced": false,
-      "path": "select/pl_01_妄想感傷代償連盟_DECO_27.txt"
-    },
-    {
-      "id": "localdb_1",
-      "source": "localdb",
-      "title": "妄想感傷代償連盟",
-      "artist": "DECO*27",
-      "has_synced": true,
-      "path": "select/localdb_01_妄想感傷代償連盟_DECO_27.lrc",
-      "repo_name": "oRALRp7DF2Q"
-    },
-    {
-      "id": "localdb_2",
-      "source": "localdb",
-      "title": "妄想感傷代償連盟",
-      "artist": "DECO*27",
-      "has_synced": true,
-      "path": "select/localdb_02_妄想感傷代償連盟_DECO_27.lrc",
-      "repo_name": "8pGRdRhjX3o"
+      "path": "select/pl_01_妄想税_初音ミク.txt"
     }
   ]
 }
